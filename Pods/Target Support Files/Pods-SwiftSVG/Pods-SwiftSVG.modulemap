@@ -1,0 +1,6 @@
+module Pods_SwiftSVG {
+  umbrella header "Pods-SwiftSVG-umbrella.h"
+
+  export *
+  module * { export * }
+}
